@@ -1,5 +1,5 @@
-Git-versionhallinta - SOF013AS2A-3001
-Kajsa Lindroos
+Git-versionhallinta - SOF013AS2A-3001, 
+Kajsa Lindroos, 
 index.html sisältää ajan näyttävän javascript-ohjelman,
 ja git-oppimispäiväkirjasta löytyy kurssin aikana tehdyt päiväkirjamerkinnät.
 ______________________________________________________________________________
@@ -73,6 +73,3 @@ __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmääräst
 Opintojakso sisälsi sopivan määrän erilaisia git-komentoja, joihin pääsimme tutustumaan opintojakson aikana. Tämänkaltaiset kurssit voivat usein olla haastavia, joten pidin siitä että komentoja ei usein tarvinnut itse lähteä etsimään netistä. Uskon versionhallinnan tulevan tutuksi matkalla ohjelmistokehittäjäksi. 
 
 Viimeinen osio oli kaikista haastavin ja soveltavin, ja tehtävien tekemisen jälkeen jäi epävarma olo siitä, tulivatko ne tehtyä oikein. Ehkäpä viimeiset tehtävät hyötyisivät lisäohjeistuksesta.
-|git reset --hard| peruuttaa kaikki työtilaan tehdyt muutokset |
-|git rm | poistaa tiedoston git-hallinnasta |
-|git clone |luo uuden repositorion valmiiksi annetuilla tiedostoilla, esim. tämä päiväkirja|
